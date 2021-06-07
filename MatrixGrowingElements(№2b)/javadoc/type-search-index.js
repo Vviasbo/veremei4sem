@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"by.learn.numbers","l":"FillMatrixWithRandomIntegers"},{"p":"by.learn.numbers","l":"FindMaxNumberOfIncreasingElements"},{"p":"by.learn.numbers","l":"GetIntegerFromConsole"},{"p":"by.learn.numbers","l":"Main"},{"p":"by.learn.numbers","l":"WriteMatrixInConsole"}]
